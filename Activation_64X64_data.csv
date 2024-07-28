@@ -1,0 +1,1 @@
+Epochs,Optimizer,Activation_Function,Train_Loss,Train_Accuracy,Train_Precision,Train_Recall,Val_Loss,Val_Accuracy,Val_Precision,Val_Recall
